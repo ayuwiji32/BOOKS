@@ -1,0 +1,24 @@
+Project UAS
+--------------------
+1. Buatlah modul 'Kategori' di dashboard
+   - Tambah Kategori
+   - Edit Kategori
+   - Hapus Kategori	
+2. Buatlah modul 'Users' di dashboard
+   - Tambah User
+   - Edit User
+   - Hapus User
+3. Modifikasilah tabel user, tambahkan
+   field: role -> admin, operator
+4. Buatlah pengaturan hak akses halaman
+   berdasarkan role:
+   - admin -> bisa mengakses semua menu
+              (dashboard, tambah buku,  
+              kategori, users, data buku)   
+   - operator -> hanya bisa akses menu:
+                 (dashboard, data buku) 
+5. Tambahkan keterangan jumlah data buku
+   di halaman data buku
+6. Tambahkan fitur edit dan view data buku
+   di halaman data buku
+7. Tambahkan modul data buku dengan paging
